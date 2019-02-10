@@ -7,4 +7,5 @@ class Song < InteractiveRecord
   end
 
   # method to write attr_accessors - keys 
+  # you do not need a method called, because it already calls another method. 
 end
